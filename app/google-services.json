@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239732970481",
+    "project_id": "themorningroutine-c61b4",
+    "storage_bucket": "themorningroutine-c61b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239732970481:android:276d32225499638bddea50",
+        "android_client_info": {
+          "package_name": "com.example.morningroutine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239732970481-ej43bac7imia85q9kb1ievdt8qlmq4f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJ3VUj2Sq-vN0dBjQNrAC9kIDX6FwY1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239732970481-ej43bac7imia85q9kb1ievdt8qlmq4f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
